@@ -1,0 +1,50 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+    Bogdan Rusca - Personal Blog
+{% endblock %}
+
+{% block stylesheets %}
+    <link rel="stylesheet" href="{{ asset('css/RuscaBogdanStyle.css') }}">
+{% endblock %}
+
+{% block body %}
+    <div id="hero-card">
+        <div id="hero-portrait-container">
+            <img id="hero-portrait-img" src="{{ asset('images/RuscaPhoto.jpeg') }}" alt="Bogdan Rusca">
+            <h3 id="hero-portrait-support-text">
+                Welcome to My Blog
+            </h3>
+        </div>
+        <div id="hero-description">
+            <p>
+                Hi, I'm Bogdan Rusca, and this is my personal blog where I share thoughts on technology, 
+                personal growth, and daily life experiences.
+            </p>
+
+            <p class="text-header"> Topics I Cover: </p>
+            <ul>
+                <li>Latest trends in technology and software development.</li>
+                <li>How to stay productive while working remotely.</li>
+                <li>The best books and resources for self-improvement.</li>
+                <li>Simple daily habits that lead to long-term success.</li>
+            </ul>
+
+            <p>
+                Writing has always been my way of reflecting on experiences and sharing knowledge. Whether it's 
+                about coding, problem-solving, or just simple lessons from life, this blog is my space for expression.
+            </p>
+
+            <p class="text-header"> My Recent Thoughts: </p>
+            <ul>
+                <li>Consistency is more important than motivation.</li>
+                <li>Why taking breaks improves your focus and creativity.</li>
+                <li>How to balance learning new skills while working full-time.</li>
+            </ul>
+
+            <p>
+                Thanks for stopping by! If you enjoy my content, feel free to connect with me or leave a comment.
+            </p>
+        </div>
+    </div>
+{% endblock %}
