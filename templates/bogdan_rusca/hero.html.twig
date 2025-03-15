@@ -1,7 +1,7 @@
 {% extends 'base.html.twig' %}
 
 {% block title %}
-    Bogdan Rusca - Personal Blog
+    Pagina Personală - Bogdan Rusca
 {% endblock %}
 
 {% block stylesheets %}
@@ -9,41 +9,37 @@
 {% endblock %}
 
 {% block body %}
-    <div id="hero-card">
-        <div id="hero-portrait-container">
-            <img id="hero-portrait-img" src="{{ asset('images/RuscaPhoto.jpeg') }}" alt="Bogdan Rusca">
-            <h3 id="hero-portrait-support-text">
-                Welcome to My Blog
-            </h3>
-        </div>
-        <div id="hero-description">
+    <div id="content-container">
+        <!-- Imaginea personală -->
+        <img id="personal-image" src="{{ asset('images/RuscaPhoto.jpeg') }}" alt="Bogdan Rusca">
+
+        <div id="text-content">
+            <h1>Bogdan Rusca</h1>
             <p>
-                Hi, I'm Bogdan Rusca, and this is my personal blog where I share thoughts on technology, 
-                personal growth, and daily life experiences.
+                Bine ați venit pe pagina mea personală! Sunt pasionat de tehnologie, dezvoltare software și 
+                explorarea noilor inovații din domeniu.
             </p>
 
-            <p class="text-header"> Topics I Cover: </p>
+            <p>
+                Îmi place să lucrez la proiecte creative, să descopăr soluții noi și să împărtășesc ceea ce învăț 
+                cu alții. Aceasta este o pagină unde veți găsi informații despre mine și interesele mele.
+            </p>
+
+            <p>
+                De-a lungul timpului, am acumulat experiență în domeniul IT și am învățat multe lecții valoroase. 
+                Mai jos sunt câteva dintre aspectele pe care le consider importante în dezvoltarea personală:
+            </p>
+
             <ul>
-                <li>Latest trends in technology and software development.</li>
-                <li>How to stay productive while working remotely.</li>
-                <li>The best books and resources for self-improvement.</li>
-                <li>Simple daily habits that lead to long-term success.</li>
+                <li>Învățarea continuă este cheia succesului.</li>
+                <li>Este important să îți urmezi pasiunea și să investești timp în ceea ce iubești.</li>
+                <li>Colaborarea cu alți oameni aduce perspective noi și idei valoroase.</li>
+                <li>Adaptabilitatea și flexibilitatea sunt esențiale în orice domeniu.</li>
             </ul>
 
             <p>
-                Writing has always been my way of reflecting on experiences and sharing knowledge. Whether it's 
-                about coding, problem-solving, or just simple lessons from life, this blog is my space for expression.
-            </p>
-
-            <p class="text-header"> My Recent Thoughts: </p>
-            <ul>
-                <li>Consistency is more important than motivation.</li>
-                <li>Why taking breaks improves your focus and creativity.</li>
-                <li>How to balance learning new skills while working full-time.</li>
-            </ul>
-
-            <p>
-                Thanks for stopping by! If you enjoy my content, feel free to connect with me or leave a comment.
+                Mulțumesc că ai vizitat pagina mea! Sper că informațiile de aici îți vor fi de folos. 
+                Dacă ai întrebări sau vrei să discutăm despre un proiect, nu ezita să mă contactezi.
             </p>
         </div>
     </div>
