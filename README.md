@@ -12,3 +12,6 @@ Bzovii Elena
 Petru Lazar
 Jibotean Denis-Virgil
 Lascus Andrea
+
+
+Figlea Diana
