@@ -12,7 +12,22 @@ Bzovii Elena
 Petru Lazar
 Jibotean Denis-Virgil
 Lascus Andrea
-Rusca Bogdan-Ioan
 Figlea Diana
 Cocerba Alexandru
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rusca Bogdan-Ioan
