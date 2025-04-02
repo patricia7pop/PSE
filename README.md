@@ -20,3 +20,4 @@ Cocerba Alexandru
 
 
 Barbut Dragos-Razvan
+Rusca Bogdan-Ioan
