@@ -17,6 +17,6 @@ Lascus Andrea
 Figlea Diana
 Cocerba Alexandru
 
-
+Dicu Alexandru-Robert
 
 Barbut Dragos-Razvan
