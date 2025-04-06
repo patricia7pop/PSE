@@ -27,3 +27,5 @@ Barbut Dragos-Razvan
 Barbut Dragos-Razvan
 Rusca Bogdan-Ioan
 
+Frumosu Lucian
+Prata Antoniu-Emanuel
