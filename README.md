@@ -16,9 +16,15 @@ Lascus Andrea
 
 Figlea Diana
 Cocerba Alexandru
+Achimescu Andrei
+Radu Diana Nicoleta
 
 Dicu Alexandru-Robert
 
+
+Barbut Dragos-Razvan
+
 Barbut Dragos-Razvan
 Rusca Bogdan-Ioan
+
 Frumosu Lucian
