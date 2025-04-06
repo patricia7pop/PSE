@@ -25,3 +25,4 @@ Dicu Alexandru-Robert
 Barbut Dragos-Razvan
 
 Barbut Dragos-Razvan
+Rusca Bogdan-Ioan
