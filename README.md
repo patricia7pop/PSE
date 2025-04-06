@@ -14,9 +14,6 @@ Jibotean Denis-Virgil
 Lascus Andrea
 
 
-<<<<<<< HEAD
-Figlea Diana
-=======
 Figlea Diana
 Cocerba Alexandru
 Achimescu Andrei
