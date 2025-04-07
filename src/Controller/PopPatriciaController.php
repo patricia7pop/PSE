@@ -16,4 +16,3 @@ class PopPatriciaController extends AbstractController
         ]);
     }
 }
-
