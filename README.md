@@ -29,3 +29,4 @@ Rusca Bogdan-Ioan
 
 Frumosu Lucian
 Prata Antoniu-Emanuel
+Toma Laurentiu-Iulian
