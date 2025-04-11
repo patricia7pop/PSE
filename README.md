@@ -12,7 +12,7 @@ Bzovii Elena
 Petru Lazar
 Jibotean Denis-Virgil
 Lascus Andrea
-
+Pop Patricia
 
 Figlea Diana
 Cocerba Alexandru
